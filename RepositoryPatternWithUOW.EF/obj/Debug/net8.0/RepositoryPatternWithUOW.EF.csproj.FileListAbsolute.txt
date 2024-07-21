@@ -1,0 +1,17 @@
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.deps.json
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.runtimeconfig.json
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.dll
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.EF.pdb
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.csproj.AssemblyReference.cache
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.AssemblyInfoInputs.cache
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.AssemblyInfo.cs
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.csproj.CoreCompileInputs.cache
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.dll
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\refint\RepositoryPatternWithUOW.EF.dll
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.pdb
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.genruntimeconfig.cache
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\ref\RepositoryPatternWithUOW.EF.dll
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.Core.dll
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\bin\Debug\net8.0\RepositoryPatternWithUOW.Core.pdb
+C:\My_Dataaaaaaa\ProjectsRepo\RepositoryPatternWithUOW\RepositoryPatternWithUOW.EF\obj\Debug\net8.0\RepositoryPatternWithUOW.EF.csproj.CopyComplete
